@@ -58,3 +58,5 @@ server {
     }
 }
 ```
+## Credits
+All credits go to the original developers of Minetrack https://github.com/Cryptkeeper/Minetrack
