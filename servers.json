@@ -1,12 +1,87 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "8b8t.me",
+		"ip": "8b8t.me",
+		"type": "PC"
+	},
+ 	{
+		"name": "l2x9.me",
+		"ip": "l2x9.me",
+		"type": "PC"
+	},
+ 	{
+		"name": "2b2t.org",
+		"ip": "2b2t.org",
+		"type": "PC"
+	},
+ 	{
+		"name": "9b9t.com",
+		"ip": "9b9t.com",
+		"type": "PC"
+	},
+        { 
+                "name": "phoenixanarchy.com",
+                "ip": "phoenixanarchy.com",
+                "type": "PC"
+        },
+        { 
+                "name": "iceanarchy.org",
+                "ip": "iceanarchy.org",
+                "type": "PC"
+        },
+        { 
+                "name": "d2s9.org",
+                "ip": "d2s9.org",
+                "type": "PC"
+        },
+ 	{
+		"name": "mc.quiltanarchy.xyz",
+		"ip": "mc.quiltanarchy.xyz",
+		"type": "PC"
+	},
+ 	{
+		"name": "5b5t.org",
+		"ip": "5b5t.org",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "2b2t.es",
+		"ip": "2b2t.es",
 		"type": "PC"
-	}
+	},
+        {
+                "name": "6b6t.ca",
+                "ip": "6b6t.ca",
+                "type": "PC"
+        },
+        {
+                "name": "7b7t.net",
+                "ip": "7b7t.net",
+                "type": "PC"
+        },
+        {
+                "name": "0b0t.org",
+                "ip": "0b0t.org",
+                "type": "PC"
+        },
+        {
+                "name": "2b2t.jp",
+                "ip": "2b2t.jp",
+                "type": "PC"
+        },
+        {
+                "name": "pvp.6b6t.ca",
+                "ip": "pvp.6b6t.ca",
+                "type": "PC"
+        },
+        { 
+                "name": "4b4t.net",
+                "ip": "4b4t.net",
+                "type": "PC"
+        },
+        {
+                "name": "mc.cobblestone.com.tr",
+                "ip": "mc.cobblestone.com.tr",
+                "type": "PC"
+        }
 ]
