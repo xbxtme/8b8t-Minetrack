@@ -84,4 +84,9 @@
                 "ip": "mc.cobblestone.com.tr",
                 "type": "PC"
         }
+        {
+                "name": "mc.cloudanarchy.com.tr",
+                "ip": "mc.cloudanarchy.com.tr",
+                "type": "PC"
+        }
 ]
