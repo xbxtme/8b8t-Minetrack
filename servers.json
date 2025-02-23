@@ -84,6 +84,11 @@
                 "ip": "mc.cobblestone.com.tr",
                 "type": "PC"
         },
+	{
+                "name": "xbxt.xyz",
+                "ip": "xbxt.xyz",
+                "type": "PC"
+        },
         {
                 "name": "mc.cloudanarchy.com.tr",
                 "ip": "mc.cloudanarchy.com.tr",
