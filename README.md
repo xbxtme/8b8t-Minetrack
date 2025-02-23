@@ -5,6 +5,8 @@
 # 8b8t Minetrack
 This is the Github repo for https://track.8b8t.me Minetrack instance. If you would like to add your server to the track site, please edit the [servers.json](https://github.com/XeraPlugins/8b8t-Minetrack/blob/main/servers.json) file on this repoistory and create a pull request to add your server to the track site.
 
+Please ensure the JSON edited is vaild or else the pull request will not be accepted https://jsonlint.com/
+
 ## Installation
 1. Node 12.4.0+ is required (you can check your version using `node -v`)
 2. Make sure everything is correct in ```config.json```.
