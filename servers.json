@@ -108,5 +108,10 @@
                 "name": "2b2t.org.tr",
                 "ip": "2b2t.org.tr",
                 "type": "PC"
+        },
+	{
+                "name": "Anarchy Network",
+                "ip": "anarchynetwork.net",
+                "type": "PC"
         }
 ]
