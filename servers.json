@@ -84,11 +84,6 @@
                 "ip": "4b4t.net",
                 "type": "PC"
         },
-        {
-                "name": "mc.cobblestone.com.tr",
-                "ip": "mc.cobblestone.com.tr",
-                "type": "PC"
-        },
 	{
                 "name": "xbxt.xyz",
                 "ip": "xbxt.xyz",
@@ -107,6 +102,11 @@
 	{
                 "name": "2b2t.com.ar",
                 "ip": "2b2t.com.ar",
+                "type": "PC"
+        },
+        {
+                "name": "2b2t.org.tr",
+                "ip": "2b2t.org.tr",
                 "type": "PC"
         }
 ]
