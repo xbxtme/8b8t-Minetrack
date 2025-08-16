@@ -1,122 +1,177 @@
 [
-	{
-		"name": "8b8t.me",
-		"ip": "8b8t.me",
-		"type": "PC"
-	},
-	{
-		"name": "Jonarchy.com",
-		"ip": "Jonarchy.com",
-		"type": "PC"
-	},
- 	{
-		"name": "l2x9.me",
-		"ip": "l2x9.me",
-		"type": "PC"
-	},
- 	{
-		"name": "2b2t.org",
-		"ip": "2b2t.org",
-		"type": "PC"
-	},
- 	{
-		"name": "9b9t.com",
-		"ip": "9b9t.com",
-		"type": "PC"
-	},
-        { 
-                "name": "phoenixanarchy.com",
-                "ip": "phoenixanarchy.com",
-                "type": "PC"
-        },
-        { 
-                "name": "iceanarchy.org",
-                "ip": "iceanarchy.org",
-                "type": "PC"
-        },
-        { 
-                "name": "d2s9.org",
-                "ip": "d2s9.org",
-                "type": "PC"
-        },
- 	{
-		"name": "mc.quiltanarchy.xyz",
-		"ip": "mc.quiltanarchy.xyz",
-		"type": "PC"
-	},
- 	{
-		"name": "5b5t.org",
-		"ip": "5b5t.org",
-		"type": "PC"
-	},
-	{
-		"name": "2b2t.es",
-		"ip": "2b2t.es",
-		"type": "PC"
-	},
-        {
-                "name": "6b6t.ca",
-                "ip": "6b6t.ca",
-                "type": "PC"
-        },
-        {
-                "name": "0b0t.org",
-                "ip": "0b0t.org",
-                "type": "PC"
-        },
-        {
-                "name": "2b2t.jp",
-                "ip": "2b2t.jp",
-                "type": "PC"
-        },
-        {
-                "name": "7b7t",
-                "ip": "7b7t.net",
-                "type": "PC"
-        },
-        {
-                "name": "pvp.6b6t.ca",
-                "ip": "pvp.6b6t.ca",
-                "type": "PC"
-        },
-        { 
-                "name": "4b4t.net",
-                "ip": "4b4t.net",
-                "type": "PC"
-        },
-	{
-                "name": "xbxt.xyz",
-                "ip": "xbxt.xyz",
-                "type": "PC"
-        },
-	{
-                "name": "constantiam.net",
-                "ip": "constantiam.net",
-                "type": "PC"
-        },
-	{
-                "name": "oldfag.org",
-                "ip": "oldfag.org",
-                "type": "PC"
-        },
-	{
-                "name": "2b2t.com.ar",
-                "ip": "2b2t.com.ar",
-                "type": "PC"
-        },
-        {
-                "name": "2b2t.org.tr",
-                "ip": "2b2t.org.tr",
-                "type": "PC"
-        },
-	{
-                "name": "Anarchy Network",
-                "ip": "anarchynetwork.net",
-                "type": "PC"
-        },
-        {
-                "name":"Lord Anarchy",
-                "ip": "lordanarchy.falixsrv.me",
-                "type": "PC"
-        }
+  {
+    "name": "8b8t.me",
+    "ip": "8b8t.me",
+    "type": "PC"
+  },
+  {
+    "name": "3b3t.pw",
+    "ip": "3b3t.pw",
+    "type": "PC"
+  },
+  {
+    "name": "anarchy.ac",
+    "ip": "anarchy.ac",
+    "type": "PC"
+  },
+  {
+    "name": "simplyvanilla.net",
+    "ip": "simplyvanilla.net",
+    "type": "PC"
+  },
+  {
+    "name": "uneasyvanilla.com",
+    "ip": "uneasyvanilla.com",
+    "type": "PC"
+  },
+  {
+    "name": "vforv.net",
+    "ip": "vforv.net",
+    "type": "PC"
+  },
+  {
+    "name": "nobnot.org",
+    "ip": "nobnot.org",
+    "type": "PC"
+  },
+  {
+    "name": "endcrystal.me",
+    "ip": "endcrystal.me",
+    "type": "PC"
+  },
+  {
+    "name": "1b1t.us",
+    "ip": "1b1t.us",
+    "type": "PC"
+  },
+  {
+    "name": "Jonarchy.com",
+    "ip": "Jonarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "10b10t.com",
+    "ip": "10b10t.com",
+    "type": "PC"
+  },
+  {
+    "name": "modern-anarchy.org",
+    "ip": "modern-anarchy.org",
+    "type": "PC"
+  },
+  {
+    "name": "mc.p-anarchy.com",
+    "ip": "mc.p-anarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "l2x9.me",
+    "ip": "l2x9.me",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t.org",
+    "ip": "2b2t.org",
+    "type": "PC"
+  },
+  {
+    "name": "6b6t.org",
+    "ip": "6b6t.org",
+    "type": "PC"
+  },
+  {
+    "name": "mc.netherboat.net",
+    "ip": "mc.netherboat.net",
+    "type": "PC"
+  },
+  {
+    "name": "9b9t.com",
+    "ip": "9b9t.com",
+    "type": "PC"
+  },
+  {
+    "name": "phoenixanarchy.com",
+    "ip": "phoenixanarchy.com",
+    "type": "PC"
+  },
+  {
+    "name": "iceanarchy.org",
+    "ip": "iceanarchy.org",
+    "type": "PC"
+  },
+  {
+    "name": "mc.quiltanarchy.xyz",
+    "ip": "mc.quiltanarchy.xyz",
+    "type": "PC"
+  },
+  {
+    "name": "5b5t.org",
+    "ip": "5b5t.org",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t.es",
+    "ip": "2b2t.es",
+    "type": "PC"
+  },
+  {
+    "name": "6b6t.ca",
+    "ip": "6b6t.ca",
+    "type": "PC"
+  },
+  {
+    "name": "0b0t.org",
+    "ip": "0b0t.org",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t.jp",
+    "ip": "2b2t.jp",
+    "type": "PC"
+  },
+  {
+    "name": "7b7t.net",
+    "ip": "7b7t.net",
+    "type": "PC"
+  },
+  {
+    "name": "pvp.6b6t.ca",
+    "ip": "pvp.6b6t.ca",
+    "type": "PC"
+  },
+  {
+    "name": "4b4t.net",
+    "ip": "4b4t.net",
+    "type": "PC"
+  },
+  {
+    "name": "xbxt.xyz",
+    "ip": "xbxt.xyz",
+    "type": "PC"
+  },
+  {
+    "name": "constantiam.net",
+    "ip": "constantiam.net",
+    "type": "PC"
+  },
+  {
+    "name": "oldfag.org",
+    "ip": "oldfag.org",
+    "type": "PC"
+  },
+  {
+    "name": "2b2t.com.ar",
+    "ip": "2b2t.com.ar",
+    "type": "PC"
+  },
+  {
+    "name": "newfag.xyz",
+    "ip": "newfag.xyz",
+    "type": "PC"
+  },
+  {
+    "name": "Anarchy Network",
+    "ip": "anarchynetwork.net",
+    "type": "PC"
+  }
 ]
